@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurBohn95
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning the Arcade Lib in Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on my library: `jabutiles`
 - 📫 How to reach me: DM me
 
 <!---
